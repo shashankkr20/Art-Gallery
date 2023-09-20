@@ -1,6 +1,6 @@
 ## Art-Gallery Page (TEAM_SEEKERS_MVIT)
 - ☺️ Art Gallery Page.....Beautiful art piece collected and displayed you can view and share it.
-  - Link: 
+  - Link: https://apurv212.github.io/Art-Gallery/
   ---
 ![](https://apurv212.github.io/Art-Gallery/)
 
