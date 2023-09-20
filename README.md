@@ -1,5 +1,5 @@
 ## Art-Gallery Page (TEAM_SEEKERS_MVIT)
-- ☺️ Art Page.....Along with a Donation camp where you can donate some amount for needy people to enlighten their future.
+- ☺️ Art Gallery Page.....Beautiful art piece collected and displayed you can view and share it.
   - Link: https://shashankkr20.github.io/Art-Gallery/
   ---
 ![](https://github.com/shashankkr20/Art-Gallery/1.JPG)
@@ -10,9 +10,3 @@
 
 ---
 ![](3.JPG)
-
----
-![](4.JPG)
-
----
-![](5.JPG)
