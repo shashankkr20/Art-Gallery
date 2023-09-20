@@ -1,8 +1,8 @@
-## Art-Gallery Page
+## Art-Gallery Page (TEAM_SEEKERS_MVIT)
 - ☺️ Art Page.....Along with a Donation camp where you can donate some amount for needy people to enlighten their future.
-  - Link: https://wadermanasi.github.io/My-Art-Gallery/
+  - Link: https://shashankkr20.github.io/Art-Gallery/
   ---
-![](https://github.com/WaderManasi/My-Art-Gallery/blob/main/1.JPG)
+![](https://github.com/shashankkr20/Art-Gallery/1.JPG)
 
 
 ---
